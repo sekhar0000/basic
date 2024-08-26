@@ -1,0 +1,10 @@
+if(today == "Monday" or "tue" or "wen" or "thur" or "frid")
+{
+    print "attend class"
+
+}
+else
+{
+    print "no class"
+}
+
